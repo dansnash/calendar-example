@@ -1,2 +1,2 @@
 # Calendar-example
-The full code of our google calendar integration
+The code for our google calendar integration
